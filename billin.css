@@ -1,0 +1,46 @@
+img{
+    width: 10%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+body{
+    text-transform: uppercase;
+}
+h4{
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 0px;
+}
+.main-box{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    
+}
+tr,td{
+    border: 1px solid black;
+    width: 30%;
+    text-transform: uppercase;
+    
+}
+table.bill td tr{
+    border: 1px solid black;
+    width: 17%;
+    text-transform: uppercase;
+}
+table.val td tr{
+    border: 0px solid black;
+    width: 17%;
+    text-transform: uppercase;
+}
+.total{
+    margin-left: 600px;
+}
+table.signature tr td{
+    border: 1px solid black;
+    width: 90%;    
+}
+.last{
+    margin-left: 200px;
+}

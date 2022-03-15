@@ -1,0 +1,42 @@
+table{
+    border: 1px solid black;
+    margin-top: 50px;
+}
+tr,td{
+    border: 1px solid black;
+    padding-left: 130px;
+    padding-right: 120px;
+    text-transform: uppercase;
+    background-color: rgb(128,223,255);
+}
+.heading{
+    background-color: black;
+    text-decoration-color: aliceblue;
+    color: antiquewhite;
+}
+body{
+    background-image: url(index.jpeg);
+}
+input{
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.box{
+    border: 1px solid black;
+    margin-left: 150px;
+    display: inline-block;
+    margin-top: 150px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+    text-transform: uppercase;
+}
+a:hover{
+    color: aqua;
+}
